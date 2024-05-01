@@ -38,7 +38,7 @@ target_include_directories(l2-cv-bot PRIVATE lib/interception)
 # Bundle executable with DLLs
 if(MSVC)
     set(CMAKE_INSTALL_PREFIX ${CMAKE_BINARY_DIR})
-    
+
     install(CODE "
         include(BundleUtilities)
         fixup_bundle(${CMAKE_INSTALL_PREFIX}/\${BUILD_TYPE}/l2-cv-bot.exe \"\" ${OpenCV_LIBS})
