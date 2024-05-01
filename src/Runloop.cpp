@@ -247,7 +247,7 @@ int Runloop::ShowDebugWindow(cv::Mat &image)
         std::cout << "Preview saved to preview.bmp" << std::endl;
     }
 
-    cv::imshow("l2-cv-bot", image);
+    cv::imshow("l2cvbot", image);
     return cv::waitKey(1) & 0xFF;
 }
 

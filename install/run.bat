@@ -1,6 +1,6 @@
 @echo off
 
-l2-cv-bot.exe ^
+l2cvbot.exe ^
 
     --search_attempts       7   ^
     --blind_spot_radius     100 ^

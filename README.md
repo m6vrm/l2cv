@@ -39,7 +39,7 @@ Default keyboard layout:
 Command line options
 ====================
 
-l2-cv-bot.exe:
+l2cvbot.exe:
 
     --window    Lineage II window title or part of the title.
                 Default: "Lineage II"
