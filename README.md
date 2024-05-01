@@ -13,8 +13,8 @@ Features
 How to use
 ==========
 
-NOTE: Interception driver (https://github.com/oblitum/Interception) driver
-is required for mouse and keyboard emulation.
+NOTE: Interception driver (https://github.com/oblitum/Interception) is required
+for mouse and keyboard emulation.
 
 1.  Install Interception driver (https://github.com/oblitum/Interception/releases)
     (start cmd.exe as Administrator, then run install-interception.exe /install)
