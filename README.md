@@ -29,14 +29,14 @@ for mouse and keyboard emulation.
 
 Default keyboard layout:
 
-*   F1 - Primary attack
-*   F2 - Next target
-*   F3 - Spoil
-*   F4 - Sweep
-*   F5 - Pick up
-*   F6 - Restore HP when <70%
-*   F7 - Restore MP when <70%
-*   F8 - Restore CP when <90%
+*   F1 – Primary attack
+*   F2 – Next target
+*   F3 – Spoil
+*   F4 – Sweep
+*   F5 – Pick up
+*   F6 – Restore HP when <70%
+*   F7 – Restore MP when <70%
+*   F8 – Restore CP when <90%
 
 Command line options
 ====================
