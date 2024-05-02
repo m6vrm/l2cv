@@ -1,7 +1,8 @@
 Simple Lineage II bot that uses CV to find possible targets and monitor
 HP/MP/CP.
 
-Demos: https://www.youtube.com/playlist?list=PLr7PdgzVvrd0OB0Yy9erJKnBfvejsAAaO
+Demo videos:
+https://www.youtube.com/playlist?list=PLr7PdgzVvrd0OB0Yy9erJKnBfvejsAAaO
 
 Features
 ========
@@ -38,7 +39,7 @@ Default keyboard layout:
 *   F7 – Restore MP when <70%
 *   F8 – Restore CP when <90%
 
-Command line options
+Command-line options
 ====================
 
 l2cvbot.exe:
@@ -65,7 +66,7 @@ client, but with another Windows or Lineage II client it may not work.
 Building
 ========
 
-Using CMake and MSVC (Visual Studio 2017) on Windows:
+Use CMake and MSVC (Visual Studio 2017) on Windows.
 
 1.  Download and install CMake (https://cmake.org/download/).
 2.  Download OpenCV binaries (https://opencv.org/releases.html) or build OpenCV
